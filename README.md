@@ -1,4 +1,4 @@
-👋 Hi, I’m @DecentralizedDan. I'm [Interlock's](https://www.interlock.network/) product manager. This is my first PM role, so my approach is deeply informed by my six years of experience as a frontend and full stack engineer in the cybersecurity space. I'd like to think this makes me better at writing tickets and communicating with the awesome developers at Interlock. In other words...
+👋 Hi, I’m @DecentralizedDan. I'm a software engineer and product manager. My approach as a PM is informed by my six years of experience as a frontend and full stack engineer in the cybersecurity space. I'd like to think this makes me better at communicating with developers, prioritizing features and, yes, writing tickets. In other words...
 
 ![image](https://user-images.githubusercontent.com/100495150/189968416-405e1fe2-4377-4f82-a980-2db582a985bf.png)
 
@@ -8,7 +8,7 @@
 
 🤝 How to work with me:
 
-* Please OVERcommunicate! You can always reach me on Discord, where I'm Magnitude#2294
+* Please OVERcommunicate!
   * Although I might not respond right away due to family commitments or just being asleep etc.
 * I'm taking small steps into Radical Candor (tm)
   * I like to end meetings with "What's something I can keep doing to help you? What's something I can stop doing to help you?"
